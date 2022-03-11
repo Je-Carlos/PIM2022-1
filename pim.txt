@@ -1,0 +1,16 @@
+Tem que usar C# , Banco de dados, Design de tela
+
+Introducao
+Seguros (carro, vida,)
+a empresa () contratou a nossa empresa () para desenvolver um seguro de () [explicando], explicar a LGPD,
+
+Revisao bibliografica
+provar que LGPD é importante
+provar pq seguro é util (gravidez, idosos, carga rouba)
+
+Desenvolvimento
+valores do seguro logo no inicio do desenvolvimento
+banco de dados
+telas
+mini resultado
+
