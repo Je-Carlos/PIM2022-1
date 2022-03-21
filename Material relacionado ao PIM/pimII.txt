@@ -1,0 +1,18 @@
+Pim esta dividido entre: 
+
+
+Documentacao: 1- Capa, Contracapa, agradecimentos, Sumario ...
+	      2 - Introducao (contar uma historia - situacao,problema,objetivo  no final: o objetivo é desenvolver um X para resolver o problema da empresa Y)
+	      3 - Revisao Bibliografica (Olhar situacao doq estao acontecendo para ter ideias, precisa ter citacao)
+para: 13/04
+	      5 - Capitulo 4 - Conclusao
+	      6 - Bibliografia
+
+Pratica:      4 - Capitulo 3 - Desenvolvimento ->
+		           3.1 - Genrenciamento do Projeto/ Engenharia de Software -> Modelo, processo, prazo = Cronograma(id, Atividade, DInicial, DF, Recurso)
+para: 13/04
+			   3.2 - PIU (UI, UX, pedir pra alguem olhar)
+			   3.3 - ASOO (Dani- diagramas)
+			   3.4 - BD (Banco de dados)
+ 			   3.5 - Telas(C#)
+													
